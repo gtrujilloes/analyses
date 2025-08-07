@@ -1,0 +1,38 @@
+# Monetisation Scenario Analysis
+
+## 📊 Objective
+
+The goal of this analysis is to understand how customer **spend behavior** correlates with **financial revenue generation**, particularly through different transaction types (e.g., cards vs invoices), regions, and customer segments.
+
+Key questions addressed include:
+
+- Does high customer spend always translate to high monetisation?
+- Which segments and regions generate more revenue per euro spent?
+- What would be the revenue impact of improving monetisation rates?
+
+## 📌 Key Insights
+
+- The **monetisation rate** (financial revenue ÷ total spend) varies significantly across features and regions.
+- **Invoice-based transactions** tend to yield a much lower monetisation rate than card-based ones.
+- Certain customer segments (e.g., high spenders with low monetisation) represent clear **opportunities for optimisation**.
+- A scenario analysis shows that **standardizing monetisation rates** to a modest target could generate substantial additional revenue.
+
+## 📁 Files
+
+| File Name                                              | Description                                |
+|--------------------------------------------------------|--------------------------------------------|
+| `Sanitized_Monetisation_Scenario_Analysis_Part1.pdf`   | First half of the report                   |
+| `Sanitized_Monetisation_Scenario_Analysis_Part2.pdf`   | Second half of the report                  |
+
+## ⚠️ Disclaimer
+
+This version has been modified to remove all sensitive or proprietary information. The data and analysis are purely illustrative and intended to demonstrate approach and methodology.
+
+## ✅ Technologies Used
+
+- SQL for data extraction and aggregation
+- Data visualization tools (not shown here)
+- Python for sanitization and PDF manipulation
+
+---
+
